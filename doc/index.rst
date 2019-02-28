@@ -10,6 +10,9 @@ Welcome to glances-based-status-collector's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   testing
+   project
+
 
 
 Indices and tables

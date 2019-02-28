@@ -68,3 +68,8 @@ grafana
 
 can directly import grafana from online data. which is 2387.
 but some minor changes is required to do is replace localhost name, with `$host` .
+
+auto start glances
+======================
+
+`nohup glances --export influxdb -q &`

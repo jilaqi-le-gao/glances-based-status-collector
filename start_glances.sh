@@ -1,0 +1,1 @@
+scl enable rh-python36 "nohup glances -t 5 --export influxdb -q 1>/dev/null 2>&1 &"
